@@ -1,1 +1,0 @@
-# training8.go
